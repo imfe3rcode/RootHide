@@ -66,7 +66,7 @@ fastboot flash boot PATCHED.img
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore) - обход Keystore и скрытие статуса загрузчика. Требуется для Google Pay и прочих сервисов, требующих STRONG аттестацию PlayIntegrity
 - [TrickyAddon](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - дополнение для TrickyStore. Добавляет WebUI (веб-интерфейс в рут-менеджере) для удобной и быстрой настройки
 - [LSPosed](https://t.me/LSP_Leaks) - вспомогательный модуль. Открывает огромные возможности, всех не перечислить
-- [HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - LSPosed-модуль для скрытия списка приложений от других игр/приложений
+- [HMA-OSS](https://github.com/frknkrc44/HMA-OSS) - LSPosed-модуль для скрытия наличия установленных приложений от других игр/приложений
 
 Эти модули являются базой уже на протяжении долгого времени (примерно такой же список я использовал в первой редакции гайда).
 
@@ -77,7 +77,7 @@ fastboot flash boot PATCHED.img
 4. TrickyAddon
 5. Перезагрузка
 6. LSPosed
-7. HMA
+7. HMA-OSS
 8. Перезагрузка
 
 # 2.4. Настройка модулей
