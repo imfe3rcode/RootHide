@@ -87,11 +87,11 @@ fastboot flash boot PATCHED.img
 ![5](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-24-24.jpg)
 
 После верной настройки имеем полностью скрытый рут:
-![6](https://github.com/imfe3rcode/RootHide/blob/main/clip2.png)
+![6](https://github.com/imfe3rcode/RootHide/blob/main/clip2)
 
 # 3. Конец
 Благодарю за прочтение этого гайда. Я надеюсь, для кого-то он окажется полезным и поможет не попасть на бабки
-![7](https://github.com/imfe3rcode/RootHide/blob/main/clip3.png)
+![7](https://github.com/imfe3rcode/RootHide/blob/main/clip3)
 
 Поддержать автора гайда и задать вопрос:
 в телеграме [fe3rcode](https://t.me/fe3rcode)
