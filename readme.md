@@ -47,6 +47,12 @@ Xiaomi Redmi Note 14 Pro 5G stock rom
 ```
 fastboot flash init_boot PATCHED.img
 ```
+
+или для ~~нищих~~ boot.img:
+```
+fastboot flash boot PATCHED.img
+```
+
 где *PATCHED.img* - это файл, который ты в последний раз перенес на свой пк.
 
 ### 2.1.2. Установка GKI
