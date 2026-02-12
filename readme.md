@@ -80,14 +80,14 @@ fastboot flash boot PATCHED.img
 # 2.4 Настройка модулей
 Если ты смог выполнить все, что описано выше, то ты человек не глупый, а значит найти необходимые настройки сможешь сам. Я оставлю лишь несколько скриншотов, которые наведут на верные мысли:
 
-[](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-23-54.jpg)
-![[photo_2026-02-12_13-24-14.jpg]]
-![[photo_2026-02-12_13-24-18.jpg]]
-![[photo_2026-02-12_13-24-21.jpg]]
-![[photo_2026-02-12_13-24-24.jpg]]
+[1](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-23-54.jpg)
+[2](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-24-14.jpg)
+[3](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-24-18.jpg)
+[4](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-24-21.jpg)
+[5](https://github.com/imfe3rcode/RootHide/blob/main/photo_2026-02-12_13-24-24.jpg)
 
 После верной настройки имеем полностью скрытый рут:
-![[Pasted image 20260212132602.png]]
+[6](https://github.com/imfe3rcode/RootHide/blob/main/Pasted image 20260212132602.png)
 
 # 3. Конец
 Благодарю за прочтение этого гайда. Я надеюсь, для кого-то он окажется полезным и поможет не попасть на бабки
