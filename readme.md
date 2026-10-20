@@ -1,4 +1,4 @@
-### Авторы гайда: [mrvokintos](https://t.me/mrvokintos) & [fe3rcode](https://github.com/imfe3rcode)
+### Авторы гайда: [mrvokintos](https://github.com/mrvokintos) & [fe3rcode](https://github.com/imfe3rcode)
 
 #### ПЕРЕД ПРОЧТЕНИЕМ
 
